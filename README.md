@@ -8,7 +8,6 @@ I mainly code in React, React Native, Typescript, Vue.js, Node.js ...
 
 ### What I'm doing right now?
 
-- Frontend Team Lead and Architect [UNISOT](https://unisot.com/)
 - PhD student 🎓
 - Attend to Blockchain and Front-End meetups 💻 
 
