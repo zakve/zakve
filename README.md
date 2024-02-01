@@ -10,6 +10,7 @@ I mainly code in React, React Native, Typescript, Vue.js, Node.js ...
 
 ### What I'm doing right now?
 
+- Serverless 🌩️ Javascript FullStack Developer 
 - PhD student 🎓
 - Attend to Blockchain and Front-End meetups 💻 
 
